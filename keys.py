@@ -1,5 +1,0 @@
-api_key = 'uqn0855e2xzzjyoj'
-api_secret = '1sstkx5n88o7g4lt84d2t7qbg2mjvw5l'
-user_id = 'ORE452'
-user_password = 'Pmk@17133'
-totp_key = 'BMUXPZBLTEZOJ4YYRP66SCJ54AEMH57L'
